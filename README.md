@@ -8,4 +8,4 @@
 个人学习使用
 
 
-CDN仓库：https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN/
+CDN图片仓库：https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/
