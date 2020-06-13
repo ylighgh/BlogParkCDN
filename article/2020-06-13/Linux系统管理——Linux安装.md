@@ -44,7 +44,9 @@ VirtualBox是一个虚拟PC的软件，可以在现有的操作系统上虚拟�
 7.设置虚拟机的虚拟硬盘文件大小和保存位置
 
 ![virtualbox_07](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_07.png)
-p/13111880.html
+
+8.配置虚拟机
+
 ![virtualbox_08](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_08.png)
 
 9.选择下载的ISO文件
@@ -168,8 +170,68 @@ Linux最小化安装，安装时需要按照一下步骤进行：
 
 ![Linux_install_12](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_12.png)
 
-10.输入用户名密码登录系统，操作系统安装完成。
+10.输入用户名密码登录系统，操作系统安装完成。（输入密码的时候屏幕上不会显示，输入完成回车即可）
 
 ![Linux_install_13](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_13.png)
 
 # 远程登录管理工具
+
+## 为什么要使用远程登录管理工具
+
+事实上在工作过程中间我们是无法真实的看到服务器，如果是购买云主机就更加看不到服务器，有些云服务器是在香港、国外。比如:阿里云、腾讯云、亚马逊云。在这种情况下，只能通过远程连接的方式管理Linux 系统。因此，在安装好Linux 系统后，学习Linux 运维的第一步应该是配置好客户端软件远程连接Linux 系统进行管理。
+
+## Linux虚拟机IP地址的配置
+
+在我们使用远程连接工具连接Linux之前，首先确保两件事情：
+
+* LinuxIP地址配置正确
+* 主机能够和Linux通信
+
+刚才我们在前面已经设置了虚拟机的网络模式为桥接模式，接下来我们进入到虚拟机进行网卡配置
+
+1.使用 `ip add` 命令查看当前有几张网卡
+
+![Linux_ip_01](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_01.png)
+
+lo：本地回环网卡
+
+enp0s3:有线网卡
+
+2.编辑网卡配置信息
+
+`vi /etc/sysconfig/network-scripts/ifcfg-enp0s3` 输入完成回车
+
+![Linux_ip_02](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_02.png)
+
+将BOOTPROTO更改为dhcp模式，onboot更改为yes，表示开启网卡，然后按下 `ESC` 键，输入`:wq` 表示保存并退出
+
+3.重启网卡，使配置生效
+
+`systemctl restart network` 
+
+`ip add ` 查看网卡状态 192.168.1.102就是我们虚拟机的IP地址
+
+![Linux_ip_03](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_03.png)
+
+4.虚拟机IP地址配置完成，接下来测试是否能够和主机通信
+
+在windows的 `cmd`里面输入 `ping 192.168.1.102` 如果ping的通，则表示能够和虚拟机通信
+
+![Linux_ip_04](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_04.png)
+
+5.使用远程工具连接虚拟机
+
+![Linux_ip_05](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_05.png)
+
+输入设置的密码（屏幕上不会有显示），输入完毕回车
+
+![Linux_ip_06](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_06.png)
+
+成功连接虚拟机
+
+![Linux_ip_07](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_07.png)
+
+# 写在最后
+如果文档对你有帮助的话，请点击一下 `推荐`按钮 ，你的点击是我的最大动力。
+
+我是键盘侠，现实中我唯唯诺诺，网络上我重拳出击，关注我，持续更新Linux干货教程。
