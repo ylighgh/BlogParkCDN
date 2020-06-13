@@ -7,6 +7,5 @@
 
 个人学习使用
 
-新增gitee项目库
 
 Blog图床：https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/
