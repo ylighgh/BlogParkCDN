@@ -21,47 +21,47 @@ VirtualBox是一个虚拟PC的软件，可以在现有的操作系统上虚拟�
 
 1.新建虚拟机
 
-![virtualbox_01](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_01.png)
+![virtualbox_01](https://ylighgh.gitee.io/blogparkcdn/images/virtualbox_01.png)
 
 2.设置虚拟机名称和保存位置
 
-![virtualbox_02](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_02.png)
+![virtualbox_02](https://ylighgh.gitee.io/blogparkcdn/images/virtualbox_02.png)
 
 3.设置虚拟机内存大小
 
-![virtualbox_03](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_03.png)
+![virtualbox_03](https://ylighgh.gitee.io/blogparkcdn/images/virtualbox_03.png)
 
 4.创建虚拟磁盘
 
-![virtualbox_04](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_04.png)
+![virtualbox_04](https://ylighgh.gitee.io/blogparkcdn/images/virtualbox_04.png)
 
 5.选择虚拟硬盘文件类型
 
-![virtualbox_05](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_05.png)
+![virtualbox_05](https://ylighgh.gitee.io/blogparkcdn/images/virtualbox_05.png)
 
-![virtualbox_06](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_06.png)
+![virtualbox_06](https://ylighgh.gitee.io/blogparkcdn/images/virtualbox_06.png)
 
 7.设置虚拟机的虚拟硬盘文件大小和保存位置
 
-![virtualbox_07](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_07.png)
+![virtualbox_07](https://ylighgh.gitee.io/blogparkcdn/images/virtualbox_07.png)
 
 8.配置虚拟机
 
-![virtualbox_08](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_08.png)
+![virtualbox_08](https://ylighgh.gitee.io/blogparkcdn/images/virtualbox_08.png)
 
 9.选择下载的ISO文件
 
-![virtualbox_09](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_09.png)
+![virtualbox_09](https://ylighgh.gitee.io/blogparkcdn/images/virtualbox_09.png)
 
 10.选择网络连接方式，这里我们选择桥接网卡
 >桥接网卡是将虚拟机的网卡直接连接到我们的物理网卡上
 
-![virtualbox_10](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_10.png)
+![virtualbox_10](https://ylighgh.gitee.io/blogparkcdn/images/virtualbox_10.png)
 
 11.选择系统启动的顺序
 >将硬盘放在第一启动位，之后使用光驱安装系统，是安装在硬盘上
 
-![virtualbox_11](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/virtualbox_11.png)
+![virtualbox_11](https://ylighgh.gitee.io/blogparkcdn/images/virtualbox_11.png)
 
 
 ## VirtualBox 网络连接方法
@@ -98,7 +98,7 @@ VirtualBox是一个虚拟PC的软件，可以在现有的操作系统上虚拟�
 
 ## 硬件设备文件名
 
-![Linuxharddev_01](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linuxharddev_01.png)
+![Linuxharddev_01](https://ylighgh.gitee.io/blogparkcdn/images/Linuxharddev_01.png)
 
 - 设备文件名
     - /dev/hda1（IDE接口）
@@ -128,51 +128,51 @@ Linux最小化安装，安装时需要按照一下步骤进行：
 
 1.安装时请选择英文界面，然后单击右下角  `Continue` 按钮。
 
-![Linux_install_01](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_01.png)
+![Linux_install_01](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_01.png)
 
 2.单击 `DATA & TIME` 设置系统时区为 `Asia Shanghai`，设置完成单击左上角` Done `按钮。
 
-![Linux_install_02](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_02.png)
+![Linux_install_02](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_02.png)
 
-![Linux_install_03](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_03.png)
+![Linux_install_03](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_03.png)
 
 3.单击 `INSTALLATION DESTINATION` 按钮进行分区。
 
-![Linux_install_04](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_04.png)
+![Linux_install_04](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_04.png)
 
 4.选择磁盘并选中` I will configure partioning `单选按钮，单击左上角 `Done` 按钮，进行手动分区。
 
-![Linux_install_05](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_05.png)
+![Linux_install_05](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_05.png)
 
 5.单击 `Click here to create them automatically `按钮自动创建分区，分区完成单击左上角 `Done` 按钮。
 
-![Linux_install_06](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_06.png)
+![Linux_install_06](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_06.png)
 
 
-![Linux_install_07](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_07.png)
+![Linux_install_07](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_07.png)
 
 
 6.单击 `Accept Changes` 按钮保存修改。
 
-![Linux_install_08](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_08.png)
+![Linux_install_08](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_08.png)
 
 7.单击 `Begin Installation`按钮开始安装。
 
-![Linux_install_09](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_09.png)
+![Linux_install_09](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_09.png)
 
 8.单击 `ROOT PASSWORD` 按钮设置root密码，设置密码为000000。单击两次 `Done` 按钮保存退出。
 
-![Linux_install_10](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_10.png)
+![Linux_install_10](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_10.png)
 
-![Linux_install_11](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_11.png)
+![Linux_install_11](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_11.png)
 
 9.安装完成后单击右下角 `Reboot `按钮重启系统。
 
-![Linux_install_12](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_12.png)
+![Linux_install_12](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_12.png)
 
 10.输入用户名密码登录系统，操作系统安装完成。（输入密码的时候屏幕上不会显示，输入完成回车即可）
 
-![Linux_install_13](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_install_13.png)
+![Linux_install_13](https://ylighgh.gitee.io/blogparkcdn/images/Linux_install_13.png)
 
 # 远程登录管理工具
 
@@ -191,7 +191,7 @@ Linux最小化安装，安装时需要按照一下步骤进行：
 
 1.使用 `ip add` 命令查看当前有几张网卡
 
-![Linux_ip_01](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_01.png)
+![Linux_ip_01](https://ylighgh.gitee.io/blogparkcdn/images/Linux_ip_01.png)
 
 lo：本地回环网卡
 
@@ -201,7 +201,7 @@ enp0s3:有线网卡
 
 `vi /etc/sysconfig/network-scripts/ifcfg-enp0s3` 输入完成回车
 
-![Linux_ip_02](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_02.png)
+![Linux_ip_02](https://ylighgh.gitee.io/blogparkcdn/images/Linux_ip_02.png)
 
 将BOOTPROTO更改为dhcp模式，onboot更改为yes，表示开启网卡，然后按下 `ESC` 键，输入`:wq` 表示保存并退出
 
@@ -211,25 +211,25 @@ enp0s3:有线网卡
 
 `ip add ` 查看网卡状态 192.168.1.102就是我们虚拟机的IP地址
 
-![Linux_ip_03](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_03.png)
+![Linux_ip_03](https://ylighgh.gitee.io/blogparkcdn/images/Linux_ip_03.png)
 
 4.虚拟机IP地址配置完成，接下来测试是否能够和主机通信
 
 在windows的 `cmd`里面输入 `ping 192.168.1.102` 如果ping的通，则表示能够和虚拟机通信
 
-![Linux_ip_04](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_04.png)
+![Linux_ip_04](https://ylighgh.gitee.io/blogparkcdn/images/Linux_ip_04.png)
 
 5.使用远程工具连接虚拟机
 
-![Linux_ip_05](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_05.png)
+![Linux_ip_05](https://ylighgh.gitee.io/blogparkcdn/images/Linux_ip_05.png)
 
 输入设置的密码（屏幕上不会有显示），输入完毕回车
 
-![Linux_ip_06](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_06.png)
+![Linux_ip_06](https://ylighgh.gitee.io/blogparkcdn/images/Linux_ip_06.png)
 
 成功连接虚拟机
 
-![Linux_ip_07](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/Linux_ip_07.png)
+![Linux_ip_07](https://ylighgh.gitee.io/blogparkcdn/images/Linux_ip_07.png)
 
 # 写在最后
 如果文档对你有帮助的话，请点击一下 `推荐`按钮 ，你的点击是我的最大动力。

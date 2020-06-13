@@ -471,19 +471,19 @@ chmod -R 755 /data/web/wordpress.com
 
 1.选择语言模式为中文
 
-![LNMP_01](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/LNMP_01.png")
+![LNMP_01](https://ylighgh.gitee.io/blogparkcdn/images/LNMP_01.png)
 
 2.填写数据库信息
 
-![LNMP_02](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/LNMP_02.png")
+![LNMP_02](https://ylighgh.gitee.io/blogparkcdn/images/LNMP_02.png)
 
 3.填写网站信息
 
-![LNMP_03](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/LNMP_03.png")
+![LNMP_03](https://ylighgh.gitee.io/blogparkcdn/images/LNMP_03.png)
 
 4.访问http://服务器地址:8080 就可以看到博客已经搭起来了
 
-![LNMP_04](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/LNMP_04.png")
+![LNMP_04](https://ylighgh.gitee.io/blogparkcdn/images/LNMP_04.png)
 
 
 * wordpress数据库相关信息：

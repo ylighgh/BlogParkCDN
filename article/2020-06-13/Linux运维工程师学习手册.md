@@ -4,9 +4,9 @@
 
 本文档主要分为七大部分
 
-![LinuxSER_01](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/LinuxSER_01.png)
+![LinuxSER_01](https://ylighgh.gitee.io/blogparkcdn/images/LinuxSER_01.png)
 
-![LinuxSER_02](https://cdn.jsdelivr.net/gh/ylighgh/BlogParkCDN@master/images/LinuxSER_02.png)
+![LinuxSER_02](https://ylighgh.gitee.io/blogparkcdn/images/LinuxSER_02.png)
 
 # 关于笔者
 
