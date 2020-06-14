@@ -12,3 +12,6 @@
 
 我是键盘侠，一名苦逼的大三狗，博客主要是记录日常学习的一些学习笔记，欢迎志同道合的朋友一起讨论Linux运维知识的内容，评论是一定会回复的，大家一起加油～
 
+更多Linux干货教程请扫:
+
+![wechatmansearch](https://ylighgh.gitee.io/blogparkcdn/images/wechatmansearch.jpg)
