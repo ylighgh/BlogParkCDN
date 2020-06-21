@@ -1,6 +1,6 @@
 # 前言
 
-作为一名优秀的计算机从业人员，相信大家github应该都有知道吧。（优秀的代码托管工具）
+作为一名优秀的计算机从业人员，相信大家github应该都知道吧。（优秀的代码托管工具）
 
 但是由于平常使用的https方式克隆的本地仓库，每次`git push`时都需要输入帐号密码才能将我们修改的文件推送至远程仓库非常的不方便，由于mk是比较懒的人，不想每次都敲键盘输密码。
 
@@ -23,19 +23,6 @@ ssh-keygen -t rsa -C "youremail@example.com"
 
 ![git_02](https://ylighgh.gitee.io/blogparkcdn/images/git_02.png)
 
-## 创建配置文件
-
-```
-touch ~/.ssh/config
-```
-
-## 配置SSH客户端私钥
-
-```
-cat << EOF >> ~/.ssh/config
-IdentityFile ~/.ssh/id_rsa
-EOF
-```
 ## 查看公钥
 
 这里的公钥我们等会用到的，先粘贴在我们的剪切板上
