@@ -15,13 +15,11 @@
 ```
 ssh-keygen -t rsa -C "youremail@example.com"
 ```
-如下图所示，会生成两个文件
+会生成两个文件
 
-私钥文件：`/ylighgh/.ssh/id_rsa`
+* 私钥文件：`/ylighgh/.ssh/id_rsa`
 
-公钥文件： `/ylighgh/.ssh/id_rsa.pub`
-
-![git_02](https://ylighgh.gitee.io/blogparkcdn/images/git_02.png)
+* 公钥文件： `/ylighgh/.ssh/id_rsa.pub`
 
 ## 查看公钥
 
@@ -95,4 +93,8 @@ cat ~/.ssh/id_rsa.pub
 
 更多Linux干货教程请扫:
 
-![wechatmansearch](https://ylighgh.gitee.io/blogparkcdn/images/wechatmansearch.png)
+![wechatmansearch](https://ylighgh.gitee.io/blogparkcdn/images/wechatmansearch.jpg)
+
+创作不易，打赏请扫:
+
+![wechatpay](https://ylighgh.gitee.io/blogparkcdn/images/wechatpay.png)

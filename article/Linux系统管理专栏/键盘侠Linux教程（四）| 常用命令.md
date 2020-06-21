@@ -59,6 +59,7 @@ Linux命令并不可怕，只要熟悉日常的操作命令即可，其他不熟
 > 创建软链接的时候，一定要写绝对路径
 
 # 写在最后
+
 如果文档对你有帮助的话，留个赞再走吧 ，你的点击是我的最大动力。
 
 我是键盘侠，现实中我唯唯诺诺，网络上我重拳出击，关注我，持续更新Linux干货教程。
@@ -68,3 +69,7 @@ Linux命令并不可怕，只要熟悉日常的操作命令即可，其他不熟
 更多Linux干货教程请扫:
 
 ![wechatmansearch](https://ylighgh.gitee.io/blogparkcdn/images/wechatmansearch.jpg)
+
+创作不易，打赏请扫:
+
+![wechatpay](https://ylighgh.gitee.io/blogparkcdn/images/wechatpay.png)
