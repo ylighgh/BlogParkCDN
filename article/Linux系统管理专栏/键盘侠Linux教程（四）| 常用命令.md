@@ -72,4 +72,10 @@ Linux命令并不可怕，只要熟悉日常的操作命令即可，其他不熟
 
 创作不易，打赏请扫:
 
+微信：
+
 ![wechatpay](https://ylighgh.gitee.io/blogparkcdn/images/wechatpay.png)
+
+支付宝：
+
+![alipay](https://ylighgh.gitee.io/blogparkcdn/images/alipay.png)

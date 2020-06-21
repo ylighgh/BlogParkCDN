@@ -123,5 +123,11 @@ Linux可以识别的重启命令有很多条，但是建议大家使用"shutdown
 
 创作不易，打赏请扫:
 
+微信：
+
 ![wechatpay](https://ylighgh.gitee.io/blogparkcdn/images/wechatpay.png)
+
+支付宝：
+
+![alipay](https://ylighgh.gitee.io/blogparkcdn/images/alipay.png)
  

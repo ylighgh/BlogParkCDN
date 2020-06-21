@@ -8,10 +8,24 @@
 
 ![LinuxSER_02](https://ylighgh.gitee.io/blogparkcdn/images/LinuxSER_02.png)
 
-# 关于笔者
+# 写在最后
 
-我是键盘侠，一名苦逼的大三狗，博客主要是记录日常学习的一些学习笔记，欢迎志同道合的朋友一起讨论Linux运维知识的内容，评论是一定会回复的，大家一起加油～
+如果文档对你有帮助的话，留个赞再走吧 ，你的点击是我的最大动力。
+
+我是键盘侠，现实中我唯唯诺诺，网络上我重拳出击，关注我，持续更新Linux干货教程。
+
+更多键盘侠Linux系列教程：[链接地址](https://www.cnblogs.com/MrKeyboard/category/1786086.html)
 
 更多Linux干货教程请扫:
 
 ![wechatmansearch](https://ylighgh.gitee.io/blogparkcdn/images/wechatmansearch.jpg)
+
+创作不易，打赏请扫:
+
+微信：
+
+![wechatpay](https://ylighgh.gitee.io/blogparkcdn/images/wechatpay.png)
+
+支付宝：
+
+![alipay](https://ylighgh.gitee.io/blogparkcdn/images/alipay.png)

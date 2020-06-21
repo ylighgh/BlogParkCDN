@@ -91,16 +91,8 @@ cat ~/.ssh/id_rsa.pub
 
 更多键盘侠Linux系列教程：[链接地址](https://www.cnblogs.com/MrKeyboard/category/1786086.html)
 
-更多Linux干货教程请扫:
+更多Linux干货教程请扫:（回复 `干货`）
 
 ![wechatmansearch](https://ylighgh.gitee.io/blogparkcdn/images/wechatmansearch.jpg)
 
-创作不易，打赏请扫:
 
-微信：
-
-![wechatpay](https://ylighgh.gitee.io/blogparkcdn/images/wechatpay.png)
-
-支付宝：
-
-![alipay](https://ylighgh.gitee.io/blogparkcdn/images/alipay.png)

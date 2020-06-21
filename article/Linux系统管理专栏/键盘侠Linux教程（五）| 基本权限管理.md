@@ -180,4 +180,10 @@ u=rwx,g=rx,o=rx
 
 创作不易，打赏请扫:
 
+微信：
+
 ![wechatpay](https://ylighgh.gitee.io/blogparkcdn/images/wechatpay.png)
+
+支付宝：
+
+![alipay](https://ylighgh.gitee.io/blogparkcdn/images/alipay.png)

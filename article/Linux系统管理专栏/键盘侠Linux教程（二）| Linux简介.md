@@ -106,4 +106,10 @@ Linux 的发行版说简单点就是将 Linux 内核与应用软件做一个打�
 
 创作不易，打赏请扫:
 
+微信：
+
 ![wechatpay](https://ylighgh.gitee.io/blogparkcdn/images/wechatpay.png)
+
+支付宝：
+
+![alipay](https://ylighgh.gitee.io/blogparkcdn/images/alipay.png)

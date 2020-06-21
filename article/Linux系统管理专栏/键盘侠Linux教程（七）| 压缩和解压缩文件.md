@@ -1,10 +1,38 @@
+# 前言
+
+压缩包：Linux下常见的压缩文件名有：*.gz 、  *.bz2、 *.zip 、 *.tar.gz  、 *.tar.bz2  、 *.tgz  等
+
+每个文件都有分别解压缩的命令
+
 # zip 格式
 
+## 压缩命令
 
+```
+[root@locaclhost~]# zip [选项] 压缩包名 源文件或源目录
 
+选项：
+            -r ：压缩目录
 
+例如：
 
+[[root@locaclhost~]# zip test.zip test.txt]
+```
 
+## 解压命令
+
+```
+[root@locaclhost~]# unzip [选项] 压缩包名 
+
+选项：
+            -d ：指定解压缩位置
+
+例如：
+
+[[root@locaclhost~]# unzip test.zip
+```
+
+# gz 格式
 
 
 
@@ -46,4 +74,10 @@
 
 创作不易，打赏请扫:
 
+微信：
+
 ![wechatpay](https://ylighgh.gitee.io/blogparkcdn/images/wechatpay.png)
+
+支付宝：
+
+![alipay](https://ylighgh.gitee.io/blogparkcdn/images/alipay.png)
