@@ -27,6 +27,7 @@ Kibana：负责日志的可视化
 [logstash-7.8.0.rpm](https://download.csdn.net/download/ylighgh/12540832)
 
 >windows:先下载在主机上，通过软件上传至服务器端
+
 >Linux:通过SCP命令上传至服务器端
 
 ![ELK_02](https://ylighgh.gitee.io/blogparkcdn/images/ELK_02.png)
