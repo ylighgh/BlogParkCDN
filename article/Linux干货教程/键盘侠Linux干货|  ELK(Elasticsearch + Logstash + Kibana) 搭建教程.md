@@ -10,7 +10,7 @@ Kibana：负责日志的可视化
 
 >ELK(Elasticsearch + Logstash + Kibana)
 
-![ELK_01](https://ylighgh.gitee.io/blogparkcdn/images/ELK_01.jpg)
+![ELK_01](https://ylighgh.gitee.io/blogparkcdn/images/ELK_01.png)
 
 # 搭建过程
 
@@ -29,7 +29,7 @@ Kibana：负责日志的可视化
 >windows:先下载在主机上，通过软件上传至服务器端
 >Linux:通过SCP命令上传至服务器端
 
-![ELK_02](https://ylighgh.gitee.io/blogparkcdn/images/ELK_02.jpg)
+![ELK_02](https://ylighgh.gitee.io/blogparkcdn/images/ELK_02.png)
 
 ## 安装Elasticsearch
 
@@ -75,9 +75,11 @@ yum -y install logstash-7.8.0.rpm
 
 访问 http://服务器地址:5601/
 
-![ELK_03](https://ylighgh.gitee.io/blogparkcdn/images/ELK_03.jpg)
+![ELK_03](https://ylighgh.gitee.io/blogparkcdn/images/ELK_03.png)
 
 至此，ELK(Elasticsearch + Logstash + Kibana) 搭建教程结束
+
+- 如果时阿里云ECS需要添加安全组规则放行5601端口
 
 # 写在最后
 
